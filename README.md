@@ -1,4 +1,4 @@
-# Specula
+# Speculari
 
 It is a work in progress SIEM that I'm design to be very simple
 
